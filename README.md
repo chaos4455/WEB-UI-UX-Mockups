@@ -14,7 +14,12 @@ Este repositório é um portfólio que apresenta uma coleção de templates e mo
 
 ### 🖼️ Exemplos de Mockups mais relevantes 
 
-
+![chrome_xZVy3Vj2pD](https://github.com/user-attachments/assets/7fc308ff-bbef-44a2-bc8b-1b95439c1b90)
+![chrome_y3pbpi3Ory](https://github.com/user-attachments/assets/cf33e124-dde9-40d2-9d3f-e9259d88cdb4)
+![chrome_PYYaW92Rdh](https://github.com/user-attachments/assets/08e54f17-e5ef-4a29-8d8f-b3079008ecaa)
+![chrome_DUHgl3HQX8](https://github.com/user-attachments/assets/668147f7-c48f-48aa-b2bd-abcf249c0761)
+![rDJegQJaCyGaYysj2g5XWY](https://github.com/user-attachments/assets/142d3052-d11e-438c-b0b4-363f9c1d9471)
+![chrome_ZPJNf9uURM](https://github.com/user-attachments/assets/59c126f0-2a0f-4aec-85cf-3fbd2b54ff9c)
 ![chrome_xk1Pic3Bgl](https://github.com/user-attachments/assets/8548bc30-3d0e-4f4e-ae0e-a084affca37c)
 ![chrome_pLwcRQaM1T](https://github.com/user-attachments/assets/6260591a-f275-481c-8886-46ffe19cb15a)
 ![chrome_N55lpKI3X9](https://github.com/user-attachments/assets/c5a0a651-4b83-43c7-b6fe-1a53026b57cc)
