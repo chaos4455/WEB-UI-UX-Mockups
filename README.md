@@ -15,6 +15,23 @@ Este repositório é um portfólio que apresenta uma coleção de templates e mo
 ### 🖼️ Exemplos de Mockups mais relevantes 
 
 
+![chrome_xk1Pic3Bgl](https://github.com/user-attachments/assets/8548bc30-3d0e-4f4e-ae0e-a084affca37c)
+![chrome_pLwcRQaM1T](https://github.com/user-attachments/assets/6260591a-f275-481c-8886-46ffe19cb15a)
+![chrome_N55lpKI3X9](https://github.com/user-attachments/assets/c5a0a651-4b83-43c7-b6fe-1a53026b57cc)
+![chrome_JpxHfXxwEv](https://github.com/user-attachments/assets/02e8e5eb-9015-4d39-b249-4375f310ed1c)
+![chrome_v6urRuO0sS](https://github.com/user-attachments/assets/9a630424-5c86-43fc-9908-f8e6e8355592)
+![chrome_4ItH6Rh3ti](https://github.com/user-attachments/assets/7bcf0c90-6432-4311-9fdb-faa200a2b2f3)
+![chrome_GyS5vDFmZl](https://github.com/user-attachments/assets/baaaf060-9f3c-420b-a9fb-96335a3c2d3f)
+![chrome_ZVnazzohhr](https://github.com/user-attachments/assets/1f8f4692-d0dc-474c-b826-26cd69a73dfa)
+![chrome_VjDaAOBKPS](https://github.com/user-attachments/assets/0379a5ef-f3a7-44ee-8d9e-808e04543865)
+![chrome_H3gu6IxyuB](https://github.com/user-attachments/assets/fbccdc81-0b8f-47b0-87f0-e18ab2c5f13a)
+![chrome_QCTaMphD61](https://github.com/user-attachments/assets/1ac934c9-023a-4f1e-9da5-efe05539c847)
+![chrome_fS9FrZkYdd](https://github.com/user-attachments/assets/4966faf2-7ed3-4a77-b680-9c26ed3d69f3)
+![chrome_hIqr92Kem8](https://github.com/user-attachments/assets/4e95d4db-9d9f-4586-9de4-0c1e36c2d13f)
+![chrome_D3hJ5nRFM2](https://github.com/user-attachments/assets/d13a3275-da2d-4bdb-b415-b1f852358e21)
+![chrome_BrqJtNk8XG](https://github.com/user-attachments/assets/4b0d2c40-37ee-45de-a845-008cd911e42d)
+![chrome_51LFjPaWnW](https://github.com/user-attachments/assets/772a76de-2e69-4679-a7fe-f9db5d199c00)
+
 ## 🖼️ Exemplos de Mockups mais recentes 
 
 Abaixo estão algumas das minhas criações mais recentes, que demonstram as diversas possibilidades de design para interfaces web. Cada mockup foi desenvolvido com foco na usabilidade e na experiência do usuário, utilizando tecnologias modernas como **HTML5**, **CSS3** e **JavaScript**, além de frameworks como **Tailwind CSS**. Sinta-se à vontade para explorar e inspirar-se!
