@@ -256,3 +256,21 @@ Este repositório foi atualizado pela última vez em **18 de outubro de 2024**.
 ## 📜 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+# **Elias Andrade** 💻🚀
+
+Construído com muito amor e dedicação ❤️  
+Elias Andrade - 23/10/2024 - Maringá, Paraná  
+**Isadora, te amo filha do meu coração!** 👨‍👧💖  
+
+## Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/itilmgf)  
+- [GitHub](https://github.com/evolucaoit)  
+
+## Repositórios:
+- [Chaos4455](https://github.com/chaos4455) 🎲💡  
+- [Replika AI Solutions](https://github.com/replika-ai-solutions?tab=repositories) 🤖🛠️  
+
+Feito com carinho e uma pitada de tecnologia rsrsrs . 🚀❤️
+
+
